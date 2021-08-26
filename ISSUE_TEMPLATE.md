@@ -12,4 +12,4 @@
 
 ### Link to logo
 
-[insert a link to a transparent, png logo to make my life easier, if possible, please :)]
+[insert a link to, or attach a transparent, png logo to make my life easier, if possible, please :)]
