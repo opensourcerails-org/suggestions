@@ -2,6 +2,8 @@
 
 Suggested applications for the opensourcerails.org website.
 
+To suggest an application, simply [open an issue](https://github.com/opensourcerails-org/suggestions/issues/new).
+
 ## Criteria
 
 To get an understanding of the criteria for an application to be considered, it's important to know the mission of the site:
